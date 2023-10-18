@@ -1,0 +1,16 @@
+{
+    "name": "dboro/pktest",
+    "description": "Test package",
+    "autoload": {
+        "psr-4": {
+            "Dboro\\Pktest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Borodavkin"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -5,6 +5,6 @@ namespace Dboro\Pktest;
 class Test
 {
     public function __construct() {
-        echo __METHOD__ . "\n";
+        echo  "Hello from package!\n";
     }
 }
